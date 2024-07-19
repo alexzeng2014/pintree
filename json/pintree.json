@@ -1679,6 +1679,34 @@
       },
       {
         "type": "link",
+        "addDate": 1721357100609,
+        "title": "软路由",
+        "icon": "https://logo.clearbit.com/www.alexzeng.work",
+        "url": "http://www.alexzeng.work:9000/cgi-bin/luci/"
+      },
+      {
+        "type": "link",
+        "addDate": 1721357134361,
+        "title": "新NAS",
+        "icon": "https://logo.clearbit.com/www.alexzeng.work",
+        "url": "https://www.alexzeng.work:5001/"
+      },
+      {
+        "type": "link",
+        "addDate": 1721357146441,
+        "title": "旧NAS",
+        "icon": "https://logo.clearbit.com/w.alexzeng.work",
+        "url": "http://w.alexzeng.work:8000/"
+      },
+      {
+        "type": "link",
+        "addDate": 1721357183001,
+        "title": "Jellyfin",
+        "icon": "https://logo.clearbit.com/www.alexzeng.work",
+        "url": "http://www.alexzeng.work:8096/web/index.html#!/home.html"
+      },
+      {
+        "type": "link",
         "addDate": 1608096074000,
         "title": "ALEX ZENG 导航",
         "icon": "https://logo.clearbit.com/www.alexzeng.work",
